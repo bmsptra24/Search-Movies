@@ -64,9 +64,6 @@ img {
 }
 
 @media screen and (min-width: 40rem) {
-  body {
-    background-color: red;
-  }
   .popUp-isi {
     flex-direction: row;
   }
